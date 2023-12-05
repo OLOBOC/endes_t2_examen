@@ -1,1 +1,1 @@
-mi editor favorito es netbeans # endes_t2_examen
+Mi editor favorito es netbeans # endes_t2_examen
